@@ -68,4 +68,3 @@ MIT
 ## 참고자료
 - [한영타변환기 Alfred Workflow 개발기](https://pozafly.github.io/tools/alfred-korean-english-converter/)
 - [한영타변환기 원본](https://theyt.net/wiki/%ED%95%9C%EC%98%81%ED%83%80%EB%B3%80%ED%99%98%EA%B8%B0)
-- 
